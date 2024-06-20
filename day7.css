@@ -1,0 +1,20 @@
+body{
+    background-image: url(aiback\ ground\ 2.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: fixed;
+     height: 100%;
+     width: 30%;
+}
+.youtube{
+    margin-top:-70vh;
+    margin-left: 120vh;
+}
+.audio{
+    margin-top: 8vh;
+    margin-left:120vh ;
+}
+.video{
+    margin-top: 20vh;
+    margin-left:60vh ;
+}

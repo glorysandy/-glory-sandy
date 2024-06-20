@@ -1,0 +1,36 @@
+body{ 
+    background-color: aquamarine;
+}
+.cricketer{
+    background-color: black;
+    font-size: large;
+    color: azure;
+}
+.indian team{
+    background-color: black;
+    font-size: medium;
+    color: aliceblue;
+}
+p{ 
+  font-size: larger;  
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: black;
+}
+a{
+  font-size: 50px;  
+}
+img{
+    height: 100% ; width: 100vh;
+}
+.ol{
+    font-size: larger;
+    color: black;
+}
+.ul{
+    font-size: larger;
+    color: blue;
+}
+.dl{
+    font-size: medium;
+    color: brown;
+}

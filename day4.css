@@ -1,0 +1,29 @@
+table,td,th{
+    border: 10px solid rgb(26, 25, 25);
+    border-collapse: collapse;
+}
+td{
+    background-color: rgb(6, 213, 250);   
+}
+th{
+    background-color: rgb(255, 251, 0);
+}
+table{
+    height: 30vh;
+    width: 20vh;
+}
+.table{
+    margin-left: 10vh;
+    margin-top: 40vh;
+    
+}
+.table2{
+    margin-left:50vh;
+    margin-top: -30vh;
+ 
+}
+.table3{
+    margin-left:90vh ;
+    margin-top: -30vh;
+    
+}

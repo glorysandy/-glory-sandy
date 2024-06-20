@@ -1,0 +1,24 @@
+body{
+    margin-left: 0%;
+}
+.menubar{
+    height:100% ;
+    width: 1%;
+    background-color:rgb(6, 48, 235) ;
+    overflow: auto;
+    border: 4px solid rgb(35, 1, 66);
+    padding:40px ;
+    margin-top: -1%;
+    margin-left: -3%;
+}
+.menubar a{
+    float: bottom;
+    font-size:5vh ;
+    padding: 10px;
+    height:20vh ;
+    text-align: center;
+    color: black;
+}
+.menubar a:hover{
+    background-color: rgb(245, 236, 109) ;
+}

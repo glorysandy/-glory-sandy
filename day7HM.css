@@ -1,0 +1,127 @@
+body{
+    background-image:url(flight1.jpg) ;
+     background-repeat: no-repeat;
+     background-position: fixed;
+     background-size: cover;
+     margin-top: 0%;
+
+}
+.iconbar1{
+    overflow: auto;
+    width:100% ;
+    height: 3%;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    padding: 20px;
+    margin-top:-4px ;
+    margin-left: -3px;}
+   
+.iconbar1 a{
+    font-size: 3vh;
+    padding: 10px;
+    width: 5vh;
+    text-align: center;
+}
+ .iconbar1 a :hover{
+background-color: rgb(244, 255, 83);
+width: 60px;
+height: 30px;
+ }   
+.iconbar2{
+    overflow: bottom;
+    width:1% ;
+    height: 1000%;
+    background-color: rgb(255, 255, 255);
+    border:10px ;
+    padding: 20px;
+    margin-top:0px ;
+    margin-left:-3px ;
+}
+.iconbar2 a {
+height: 60px;
+width:3px ;
+    font-size: 3vh;
+    padding: 5px;
+    float:bottom ;
+    text-align: start;
+    
+}
+.iconbar2 a :hover{
+background-color: rgb(38, 89, 226);
+width:40px ;
+height:40px ;
+}
+.form{  
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 60vh;
+    width: 70vh;
+border: 2px solid black;
+background-color: rgb(231, 241, 241);
+
+margin-top: -40vh;
+margin-left: 70vh;
+border-radius:5px ;
+border: none;
+}
+h1{
+margin-top:5vh ;
+text-align: center;
+font-size: 4vh;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.f1{
+    margin-top: 1vh;
+    font-size: 2.5vh;
+    padding: 10px;
+    text-align: center;
+border-radius: 10px;
+border-color:whitesmoke ;
+width: 370px;
+height: 10px;
+}
+.f2{
+    font-size: 2.5vh;
+    text-align: center;
+    padding-top:10px ;
+    border-radius: 10px;
+    border-color: whitesmoke;
+    width: 390px;
+    margin-top:3vh ;
+}
+.f3{
+    margin-top:3vh ;
+    text-align: center;
+    font-size: 2.5vh;
+    padding-top: 6px;
+}
+.login {
+    padding-top:5px ;
+    text-align: center;
+    font-size: 3vh;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgb(238, 238, 243);
+background-color: rgb(7, 62, 180);
+border-radius: 10px;
+border:none ;
+width: 400px;
+height:40px ;
+margin-top: 3vh;
+text-decoration: none;
+}
+.forgot{
+    padding: 10px;
+    text-align: center;
+    font-size: 2vh;
+    background-color: rgb(46, 235, 46);
+    border-radius: 10px;
+    border: none;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width:190px ;
+    margin-top: 50px;
+    margin-left: 200px;
+text-decoration: none;
+}
+
